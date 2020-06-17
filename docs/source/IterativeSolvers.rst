@@ -1,21 +1,21 @@
-PyLinearSolver package
+IterativeSolvers package
 ======================
 
 Submodules
 ----------
 
-PyLinearSolver.IterativeSolvers module
+IterativeSolvers.IterativeSolvers module
 --------------------------------------
 
-.. automodule:: PyLinearSolver.IterativeSolvers
+.. automodule:: IterativeSolvers.IterativeSolvers
    :members:
    :undoc-members:
    :show-inheritance:
 
-PyLinearSolver.main module
+IterativeSolvers.main module
 --------------------------
 
-.. automodule:: PyLinearSolver.main
+.. automodule:: IterativeSolvers.main
    :members:
    :undoc-members:
    :show-inheritance:
@@ -24,7 +24,7 @@ PyLinearSolver.main module
 Module contents
 ---------------
 
-.. automodule:: PyLinearSolver
+.. automodule:: IterativeSolvers
    :members:
    :undoc-members:
    :show-inheritance:
