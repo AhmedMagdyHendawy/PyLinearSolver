@@ -13,7 +13,7 @@
 import os
 import sys
 
-os.system("apt-get install wget -y && wget https://julialang-s3.julialang.org/bin/linux/x64/1.4/julia-1.4.2-linux-x86_64.tar.gz && tar -xvzf julia-1.4.2-linux-x86_64.tar.gz && cp -r julia-1.4.2 /opt/ && ln -s /opt/julia-1.4.2/bin/julia /usr/local/bin/julia")
+os.system("git clone git://github.com/JuliaLang/julia.git && cd julia && git checkout v1.4.2 && make && export PATH=$PATH:$PWD")
 
 
 import julia
