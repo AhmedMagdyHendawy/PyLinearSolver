@@ -13,7 +13,7 @@
 import os
 import sys
 
-os.system("sudo apt-get install build-essential libatomic1 python gfortran perl wget m4 cmake pkg-config && git clone git://github.com/JuliaLang/julia.git && cd julia && git checkout v1.4.2 && make && export PATH=$PATH:$PWD")
+os.system("apt install sudo && sudo apt-get install build-essential libatomic1 python gfortran perl wget m4 cmake pkg-config && git clone git://github.com/JuliaLang/julia.git && cd julia && git checkout v1.4.2 && make && export PATH=$PATH:$PWD")
 
 
 import julia
