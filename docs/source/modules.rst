@@ -5,4 +5,3 @@ PyLinearSolver
    :maxdepth: 4
 
    PyLinearSolver
-   setup
