@@ -15,7 +15,7 @@ To work with PyLinearSolver packages, you need to install the dependencies for t
 PyLinearSolver
 --------------
 
-Simply you need to call this command::
+Simply you need to call the following command::
 
     pip install PyLinearSolver
 
