@@ -1,0 +1,25 @@
+Installation
+============
+
+Dependencies
+------------
+
+To work with PyLinearSolver packages, you need to install the dependencies for them.
+
+**Iterative Solvers**
+
+    * Install `Julia <https://julialang.org/downloads/>`_
+
+
+PyLinearSolver
+--------------
+
+Simply you need to call this command::
+
+    pip install PyLinearSolver
+
+**NOTE** In case of working with Iterative Solvers, you need to install the dependencies for PyJulia through the following::
+
+    import julia
+    julia.install()
+    

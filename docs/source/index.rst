@@ -7,10 +7,14 @@ Welcome to PyLinearSolver's documentation!
 ==========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
-
+	
+   About the Package
+   Installation
    PyLinearSolver
+   Examples
+
 
 
 
