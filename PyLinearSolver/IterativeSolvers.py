@@ -1,9 +1,10 @@
 from julia.api import Julia
-from julia import Main
-
-julia = Julia()
-
-Main.using("IterativeSolvers")
+try:
+    from julia import Main
+except:
+    julia = Julia()
+    Main.using("IterativeSolvers")
+    pass
 
 # Wrapper function to Conjugate Gradients	
 def cg(A,b,**kwargs):
