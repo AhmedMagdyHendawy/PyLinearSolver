@@ -18,7 +18,7 @@ setuptools.setup(
      packages=setuptools.find_packages(),
      install_requires=requirements,
      project_urls={
-        # "Documentation": "https://docs.example.com/HelloWorld/",
+        "Documentation": "https://pylinearsolver.readthedocs.io/en/latest/index.html",
         "Source Code": "https://github.com/AhmedMagdyHendawy/PyLinearSolver",
     },
     data_files = [("", ["LICENSE"])]
