@@ -1,8 +1,8 @@
-from julia.api import Julia
-from julia import Main
+# from julia.api import Julia
+# from julia import Main
 
-julia = Julia()
-Main.using("IterativeSolvers")
+# julia = Julia()
+# Main.using("IterativeSolvers")
 
 
 # Wrapper function to Conjugate Gradients	
