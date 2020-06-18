@@ -4,9 +4,6 @@ PyLinearSolver package
 Submodules
 ----------
 
-.. autofunction:: PyLinearSolver.cg
-
-
 PyLinearSolver.IterativeSolvers module
 --------------------------------------
 
