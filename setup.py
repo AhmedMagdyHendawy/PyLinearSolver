@@ -1,6 +1,6 @@
 import setuptools
 import os
-with open("README.md", "r") as fh:
+with open("README.rst", "r") as fh:
     long_description = fh.read()
     
 with open('requirements.txt') as f:
@@ -13,7 +13,7 @@ setuptools.setup(
      author_email="ahmedmagdyahmed1996@outlook.com",
      description="A python interface package for many well known linear solvers libraries in many languages, Julia, C++, etc...",
      long_description=long_description,
-     long_description_content_type="text/markdown",
+     long_description_content_type="text/rst",
      url="https://github.com/AhmedMagdyHendawy/PyLinearSolver",
      packages=setuptools.find_packages(),
      install_requires=requirements,
