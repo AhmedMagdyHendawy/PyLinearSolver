@@ -12,14 +12,6 @@ PyLinearSolver.IterativeSolvers module
    :undoc-members:
    :show-inheritance:
 
-PyLinearSolver.main module
---------------------------
-
-.. automodule:: PyLinearSolver.main
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 
 Module contents
 ---------------

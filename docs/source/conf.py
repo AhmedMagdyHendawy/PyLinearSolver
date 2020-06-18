@@ -12,7 +12,10 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../../PyLinearSolver'))
+import julia
+
+julia.install()
+sys.path.insert(0, os.path.abspath('../..'))
 
 
 
