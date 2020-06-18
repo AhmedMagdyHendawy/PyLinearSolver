@@ -1,3 +1,7 @@
+.. image:: https://readthedocs.org/projects/pylinearsolver/badge/?version=latest
+:target: https://pylinearsolver.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
+
 About the Package
 =================
 
