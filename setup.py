@@ -13,7 +13,7 @@ setuptools.setup(
      author_email="ahmedmagdyahmed1996@outlook.com",
      description="A python interface package for many well known linear solvers libraries in many languages, Julia, C++, etc...",
      long_description=long_description,
-     long_description_content_type="text/rst",
+     long_description_content_type="text/x-rst",
      url="https://github.com/AhmedMagdyHendawy/PyLinearSolver",
      packages=setuptools.find_packages(),
      install_requires=requirements,
