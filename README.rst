@@ -2,6 +2,8 @@
     :target: https://pylinearsolver.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
+![PyPI Package](https://github.com/AhmedMagdyHendawy/PyLinearSolver/workflows/Upload%20Python%20Package/badge.svg)
+
 About the Package
 =================
 
