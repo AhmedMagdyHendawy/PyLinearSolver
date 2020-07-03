@@ -1,8 +1,10 @@
 .. image:: https://readthedocs.org/projects/pylinearsolver/badge/?version=latest
     :target: https://pylinearsolver.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
-
-![PyPI Package](https://github.com/AhmedMagdyHendawy/PyLinearSolver/workflows/Upload%20Python%20Package/badge.svg)
+    
+.. image:: https://pypi.org/project/PyLinearSolver/
+:target: https://github.com/AhmedMagdyHendawy/PyLinearSolver/workflows/Upload%20Python%20Package/badge.svg
+:alt: PyPI Package
 
 About the Package
 =================
