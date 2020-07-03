@@ -3,8 +3,8 @@
     :alt: Documentation Status
     
 .. image:: https://github.com/AhmedMagdyHendawy/PyLinearSolver/workflows/Upload%20Python%20Package/badge.svg
-:target: https://pypi.org/project/PyLinearSolver/
-:alt: PyPI Package
+    :target: https://pypi.org/project/PyLinearSolver/
+    :alt: PyPI Package
 
 About the Package
 =================
