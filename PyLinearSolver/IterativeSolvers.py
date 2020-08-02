@@ -1,12 +1,9 @@
 try:
     from julia.api import Julia
     from julia import Main
-
-    # julia = Julia()
-    # Main.using("IterativeSolvers")
 except: 
     print("Installing Julia is Required")
-
+ 
 def start():
     julia = Julia()
     Main.using("IterativeSolvers")
