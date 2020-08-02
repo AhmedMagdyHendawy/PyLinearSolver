@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
      name='PyLinearSolver',  
-     version='0.1.3',
+     version='0.1.4',
      author="Ahmed Hendawy, Bernhard Rolle",
      author_email="ahmedmagdyahmed1996@outlook.com",
      description="A python interface package for many well known linear solvers libraries in many languages, Julia, C++, etc...",
